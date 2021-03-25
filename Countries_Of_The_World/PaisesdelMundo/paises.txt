@@ -1,0 +1,5 @@
+Alemania|Europa|Berlín|Alemán|82.79 Millones|Hallo Mir
+Australia|Oceanía|Canberra|Inglés|24.6 Millones|Welcome Here!
+Costa Rica|América|San José|Español|4.096 Millones|PURA VIDA
+Japón|Asia|Tokio|Japonés|126.8 Millones|こんにちは
+Sudáfrica|África|Ciudad del Cabo|Inglés|56.72 Millones|South Africa
